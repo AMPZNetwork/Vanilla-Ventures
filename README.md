@@ -5,13 +5,11 @@
 ## Welcome to Vanilla Ventures
 
 This is the official repository for Vanilla Ventures. If you encounter any bugs or issues with the modpack, please report them [here](https://github.com/AMPZNetwork/Vanilla-Ventures/issues). We are dedicated to providing the best experience for our users, and your feedback helps us achieve that goal. Thank you for choosing All The Forge. 
-### Modpack Links:
+### Modpack Link:
 
 - [Modrinth](https://modrinth.com/modpack/vanilla-ventures)
 
-Modpack can be install by another plantform like ATLauncher so long as they support modrinth .mrpack format. 
-
-</details>
+The modpack can be installed on other platforms like ATLauncher, as long as they support the Modrinth .mrpack format.
 
 ------
 
