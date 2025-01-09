@@ -5,6 +5,57 @@
 
 ---
 
+## Version: 1.3.0
+
+_Minecraft 1.21.1_ | _Fabric Loader 0.16.10_
+
+### Updated:
+- Balm (21.0.20 → 21.0.22)
+- Bookshelf (2.1.1.29 → 2.1.1.31)
+- Cobweb (1.1.3 → 1.3.0)
+- CorgiLib (5.0.0.2 → 5.0.0.3)
+- Concurrent Chunk Management Engine (0.3.0-alpha0.299 → 0.3.0+alpha.0.3.10)
+- Controlify (2.0.0-beta.17 → 2.0.0-beta.21)
+- Cull Leaves (2.4.0 → 4.0.1)
+- Default Options (21.1.1 → 21.1.2)
+- Entity Model Features (2.2.6 → 2.4.1)
+- Entity Texture Features (6.2.8 → 6.2.9)
+- Elytra Trims (3.5.4 → 3.5.6)
+- Endercon (1.0.3 → 2.1)
+- Fabric API (0.110.0 → 0.114.0)
+- Farmer's Delight Refabricated (2.2.7 → 2.2.8)
+- Farmer's Cutting: Oh The Biomes We've Gone (2.0 → 2.0a) 
+- Forge Config API Port (21.1.2 → 21.1.3)
+- Geckolib (4.7 → 4.7.3)
+- Jade (15.9.0 → 15.9.2)
+- Oh The Biomes We've Gone (2.3.0 → 2.3.1)
+- The Aether (1.5.1 → 1.5.2)
+- Vivecraft (1.1.14-b2 → 1.2.1)
+
+### Changes and Fixes
+- Fixed upgrading worlds sometimes failing due to a faulty mixin in Porting Lib.
+- Fixed missing recipes for aether banners.
+- Fixed a few NPE crashes.
+- Fixed visual workbenches not working on servers due to missing it.
+- Made the dark texture pack optional instead of required in favour of a new default pack.
+- Graves that are not picked up by the owner will now auto self destruct after 2hrs of in-game time.
+- Removed Official server as its now no longer being made public.
+
+### Added:
+- LambDynamicLights
+- Trample No More
+- Icarus
+- BetterF3
+- Squat Grow
+- Simple Voice Chat
+- Doggy Talents Next
+- Small Ships
+- Horse Armor Stand
+- Craftable Horse Armor
+- Glide Away!
+
+---
+
 ## Version: 1.2.0
 
 _Minecraft 1.21.1_ | _Fabric Loader 0.16.9_
